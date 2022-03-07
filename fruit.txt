@@ -3,3 +3,4 @@ alma2
 korte
 szilva-barack
 ribizli
+eper
